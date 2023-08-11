@@ -1,0 +1,10 @@
+button {
+  background: #fff;
+  margin: 4px;
+  width: 32px;
+  height: 32px;
+  padding: 4px;
+  border: none;
+  border-radius: 100%;
+  box-shadow: 1px 1px 10px 0px rgba(98, 98, 98, 0.48) inset;
+}

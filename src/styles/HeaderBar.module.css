@@ -1,0 +1,16 @@
+.container {
+  padding: 24px;
+  background: rgb(137, 135, 172);
+  color: #fff;
+  margin-bottom: 100px;
+
+  & h1 {
+    display: inline-flex;
+    margin: 20px 0;
+    font-size: 5rem;
+    color: transparent;
+    background: linear-gradient(to right, #cce3e7, #f8f8f8);
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+}
