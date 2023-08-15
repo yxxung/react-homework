@@ -1,12 +1,8 @@
-import RootLayout from './layout/RootLayout';
-
 
 function App() {
   return (
     <div className="App">
-      <RootLayout>
-
-      </RootLayout>
+      <div className="text-3xl font-bold underline">it goes Work!!</div>
     </div>
   );
 }
