@@ -1,8 +1,11 @@
 import "@/styles/CheckButton.module.css";
 
+import checkImgUrl from '../assets/check.svg';
+import closeImgUrl from '../assets/close.svg';
+
 function CheckButton({ check, label }) {
   const imgUrl =
-    check === "check" ? "./src/assets/check.svg" : "./src/assets/close.svg";
+    check === "check" ? checkImgUrl : closeImgUrl;
 
   return (
     <button
