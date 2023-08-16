@@ -1,8 +1,11 @@
+import Header from "./layout/Header";
+import Main from "./layout/Main";
 
 function App() {
   return (
-    <div className="App">
-      <div className="text-3xl font-bold underline">it goes Work!!</div>
+    <div className="App text-gray2">
+      <Header />
+      <Main />
     </div>
   );
 }
