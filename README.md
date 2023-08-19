@@ -13,7 +13,7 @@
 ## ✅ 피그마 주소
 [figma](https://www.figma.com/file/kz8dwmCoTQc7dpS6Xr8BCB/Atomic-Component?type=design&node-id=0%3A1&mode=design&t=wtptumjzeCb6Rt6z-1)
 
-<img src="https://github.com/yxxung/react-homework/assets/74893676/3272cd16-9bec-4b48-b069-f1953ae3e290" width="500" height="400">
+<img src="https://github.com/yxxung/react-homework/assets/74893676/3272cd16-9bec-4b48-b069-f1953ae3e290" width="300" height="350">
 
 <br />
 
